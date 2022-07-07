@@ -4,9 +4,6 @@
 # Step 1 Each row is evaluated. Users can add logic here
 # Step 2 Convert the dataframe object to an Excel file and save with timestamp in name.
 
-# "os" library is for manipulating files on your computer
-import os
-
 # "pandas" is for manipulating data, in this case Excel files
 import pandas
 
